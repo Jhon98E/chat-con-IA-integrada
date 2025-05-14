@@ -22,7 +22,6 @@
 |------------------|
 | ![Entrada](assets/images/captura-de-pantalla.png) |
 
-> Si deseas agregar más capturas, guarda las imágenes en `assets/images/` y actualiza esta sección.
 
 ---
 
